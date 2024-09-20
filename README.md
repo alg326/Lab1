@@ -1,3 +1,3 @@
 # Lab1
 
-Both .v files are included here
+All 6 .v files are included here
